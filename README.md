@@ -1,5 +1,6 @@
 #you need selenium module for python to run this script
 for ubuntu users, this should work:
+
 sudo apt-get install python-selenium
 
 #clone the repo and run the script as follows:
